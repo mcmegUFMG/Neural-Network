@@ -1,4 +1,3 @@
-# PDD Toolkit - dependencias Python (interface PyQt5)
 PyQt5
 numpy
 pandas
